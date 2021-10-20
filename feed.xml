@@ -1,0 +1,35 @@
+<news>
+    <item>
+        <title>
+        Politics
+        </title>
+        <description>
+        Daily news about politics
+        </description>
+        <link>
+        https://google.com
+        </link>
+    </item>    
+    <item>
+        <title>
+        Sport
+        </title>
+        <description>
+        Daily news about sport
+        </description>
+        <link>
+        https://google.com
+        </link>
+    </item>    
+    <item>
+        <title>
+        Gossip
+        </title>
+        <description>
+        Daily news about celebrities
+        </description>
+        <link>
+        https://google.com
+        </link>
+    </item>
+</news>
